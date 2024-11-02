@@ -1,4 +1,5 @@
 # ReRo Online Hackathon - Round 0
+this repo was made as the qualifiction round for the hackathon.
 
 ### Steps to follow:
 Go to the task folders and read up on the description(the README.md files) 
